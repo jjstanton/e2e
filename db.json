@@ -8,5 +8,12 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "verify-sms": {
+    "smsSent": true,
+    "clientNumber": null
+  },
+  "verify-complete": {
+    "verificationComplete": true
   }
 }
